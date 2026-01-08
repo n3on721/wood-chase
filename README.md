@@ -23,6 +23,9 @@ The game was developed as a two-person project, where I handled all programming 
 - Built using Raylib
 - Open the project in your IDE and build, or run the provided executable (if available)
 
+## Dependencies
+- Raylib (https://www.raylib.com/)
+
 ## 📷 Screenshots
 <img width="1272" height="711" alt="image" src="https://github.com/user-attachments/assets/e98b9399-9c61-41c9-b383-0c991d6c0537" />
 
